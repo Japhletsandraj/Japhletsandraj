@@ -71,7 +71,7 @@
 | [**codec_project1**](https://github.com/Japhletsandraj/codec_project1-Features-User-profiles-with-posts-likes-and-comments-Real-time-chat-using-WebSoc) | AI-powered blog platform with user profiles, likes/comments, and real-time chat | Vue, WebSockets |
 | [**MERN_practice**](https://github.com/Japhletsandraj/MERN_practice) | Collection of projects built while learning the MERN stack | MongoDB, Express, React, Node.js |
 
-> Note: Pin these (and any new flagship project) via "Customize your pins" on your GitHub profile so they show above the fold.
+
 
 ---
 
