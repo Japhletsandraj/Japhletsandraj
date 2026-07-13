@@ -15,7 +15,7 @@
 - Currently building: real-time apps (video conferencing, chat) and end-to-end ML projects
 - Exploring: system design basics and cleaner backend architecture
 - Enjoy taking a project from idea to working prototype
-- Reach me at: **your-email@example.com** · [LinkedIn](https://linkedin.com/in/your-handle)
+- Reach me at: **japhletsandraj@gmail.com** · [LinkedIn](https://www.linkedin.com/in/japhletsandraj/)
 
 ---
 
